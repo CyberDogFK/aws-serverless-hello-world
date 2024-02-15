@@ -1,0 +1,1 @@
+Also cool guide for cargo lambda https://www.cargo-lambda.info/guide/getting-started.html
